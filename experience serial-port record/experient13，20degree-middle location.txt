@@ -1,0 +1,804 @@
+[JSON] {"id":"123","params":{"Temp":{"value":23},"Hum":{"value":53},"Waterlevel":{"value":146},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":23},"Hum":{"value":53},"Waterlevel":{"value":146},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 257
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":25},"Hum":{"value":46},"Waterlevel":{"value":135},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":25},"Hum":{"value":46},"Waterlevel":{"value":135},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 258
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":26},"Hum":{"value":41},"Waterlevel":{"value":126},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":26},"Hum":{"value":41},"Waterlevel":{"value":126},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 259
+[JSON] {"id":"123","params":{"Temp":{"value":27},"Hum":{"value":38},"Waterlevel":{"value":125},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":27},"Hum":{"value":38},"Waterlevel":{"value":125},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 260
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":27},"Hum":{"value":36},"Waterlevel":{"value":129},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":27},"Hum":{"value":36},"Waterlevel":{"value":129},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 261
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":27},"Hum":{"value":35},"Waterlevel":{"value":131},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":27},"Hum":{"value":35},"Waterlevel":{"value":131},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 262
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":34},"Waterlevel":{"value":135},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":34},"Waterlevel":{"value":135},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 263
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":33},"Waterlevel":{"value":135},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":33},"Waterlevel":{"value":135},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 264
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":32},"Waterlevel":{"value":140},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":32},"Waterlevel":{"value":140},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 265
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":32},"Waterlevel":{"value":143},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":32},"Waterlevel":{"value":143},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 266
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":32},"Waterlevel":{"value":138},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":32},"Waterlevel":{"value":138},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 267
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":31},"Waterlevel":{"value":141},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":31},"Waterlevel":{"value":141},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 268
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":31},"Waterlevel":{"value":147},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":31},"Waterlevel":{"value":147},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 269
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":31},"Waterlevel":{"value":159},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":31},"Waterlevel":{"value":159},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 270
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":31},"Waterlevel":{"value":163},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":31},"Waterlevel":{"value":163},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 271
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":30},"Waterlevel":{"value":177},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":30},"Waterlevel":{"value":177},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 272
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":30},"Waterlevel":{"value":190},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":30},"Waterlevel":{"value":190},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 273
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":29},"Waterlevel":{"value":194},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":29},"Waterlevel":{"value":194},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 274
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":29},"Waterlevel":{"value":191},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":29},"Waterlevel":{"value":191},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 275
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":29},"Waterlevel":{"value":188},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":29},"Waterlevel":{"value":188},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 276
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":29},"Waterlevel":{"value":182},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":29},"Waterlevel":{"value":182},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 277
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":28},"Waterlevel":{"value":181},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":28},"Waterlevel":{"value":181},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 278
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":28},"Waterlevel":{"value":183},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":28},"Waterlevel":{"value":183},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 279
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":28},"Waterlevel":{"value":182},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":28},"Waterlevel":{"value":182},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 280
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":28},"Waterlevel":{"value":185},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":28},"Waterlevel":{"value":185},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 281
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":28},"Waterlevel":{"value":181},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":28},"Waterlevel":{"value":181},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 282
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":28},"Waterlevel":{"value":181},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":28},"Waterlevel":{"value":181},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 283
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":28},"Waterlevel":{"value":182},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":28},"Waterlevel":{"value":182},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 284
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":28},"Waterlevel":{"value":181},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":28},"Waterlevel":{"value":181},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 285
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":27},"Waterlevel":{"value":181},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":27},"Waterlevel":{"value":181},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 286
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":27},"Waterlevel":{"value":186},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":27},"Waterlevel":{"value":186},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 287
+"IPD" not found
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":27},"Waterlevel":{"value":188},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":27},"Waterlevel":{"value":188},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 288
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":27},"Waterlevel":{"value":96},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":27},"Waterlevel":{"value":96},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 289
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":27},"Waterlevel":{"value":97},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":27},"Waterlevel":{"value":97},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 290
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":97},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":97},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 291
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":27},"Waterlevel":{"value":100},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":27},"Waterlevel":{"value":100},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 292
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":102},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":102},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 293
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":170},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":170},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 294
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1309},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1309},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 295
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1308},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1308},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 296
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1328},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1328},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 297
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1337},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1337},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 298
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1359},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1359},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 299
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1382},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1382},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 300
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":502},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":502},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 301
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":288},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":288},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 302
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":168},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":168},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 303
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1536},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1536},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 304
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1089},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1089},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 305
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":269},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":269},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 306
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1682},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1682},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 307
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1745},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1745},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 308
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1830},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1830},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 309
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1834},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1834},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 310
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1843},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":26},"Waterlevel":{"value":1843},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 311
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1859},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1859},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 312
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1853},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1853},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 313
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1751},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1751},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 314
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1782},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1782},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 315
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1789},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1789},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 316
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1843},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1843},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 317
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1773},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1773},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 318
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1794},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1794},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 319
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1924},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1924},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 320
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1953},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1953},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 321
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":24},"Waterlevel":{"value":1929},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":24},"Waterlevel":{"value":1929},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 322
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1947},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":25},"Waterlevel":{"value":1947},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 323
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":24},"Waterlevel":{"value":1972},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":24},"Waterlevel":{"value":1972},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 324
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1973},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1973},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 325
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1973},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1973},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 326
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1958},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1958},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 327
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1962},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1962},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 328
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1961},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1961},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 329
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1968},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1968},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 330
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1965},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1965},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 331
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1967},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1967},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 332
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1970},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1970},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 333
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1964},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1964},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 334
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1969},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":25},"Waterlevel":{"value":1969},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 335
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1970},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1970},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 336
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1973},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1973},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 337
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1982},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1982},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 338
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1984},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1984},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 339
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1979},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1979},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 340
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1984},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1984},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 341
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1990},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1990},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 342
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1982},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1982},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 343
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1983},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1983},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 344
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1989},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1989},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 345
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1997},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1997},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 346
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1994},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1994},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 347
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1992},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1992},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 348
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1854},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1854},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 349
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1852},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1852},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 350
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1848},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1848},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 351
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1898},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":24},"Waterlevel":{"value":1898},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 352
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1915},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1915},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 353
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1929},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1929},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 354
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1948},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1948},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 355
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":23},"Waterlevel":{"value":1956},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":29},"Hum":{"value":23},"Waterlevel":{"value":1956},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 356
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":21},"Waterlevel":{"value":1962},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":21},"Waterlevel":{"value":1962},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 357
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":21},"Waterlevel":{"value":1960},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":21},"Waterlevel":{"value":1960},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 358
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1966},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1966},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 359
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1976},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1976},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 360
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1974},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1974},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 361
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1981},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1981},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 362
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1969},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1969},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 363
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":21},"Waterlevel":{"value":1964},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":21},"Waterlevel":{"value":1964},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 364
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":21},"Waterlevel":{"value":1963},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":21},"Waterlevel":{"value":1963},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 365
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1976},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1976},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 366
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1960},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1960},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 367
+[PING] Sent
+"IPD" not found
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":21},"Waterlevel":{"value":1970},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":21},"Waterlevel":{"value":1970},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 368
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1982},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1982},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 369
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1969},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1969},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 370
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1955},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1955},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 371
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1992},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1992},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 372
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1996},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1996},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 373
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1989},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1989},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 374
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1982},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":23},"Waterlevel":{"value":1982},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 375
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1978},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1978},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 376
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1981},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1981},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 377
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1980},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1980},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 378
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1989},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1989},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 379
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1994},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1994},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 380
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1986},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1986},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 381
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1983},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1983},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+"IPD" not found
+[WARN] No response, fail count: 382
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1986},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1986},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 383
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1982},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1982},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 384
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1985},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1985},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 385
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1984},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1984},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 386
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1989},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":1989},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 387
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":17},"Waterlevel":{"value":1993},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":17},"Waterlevel":{"value":1993},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 388
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1996},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1996},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 389
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1994},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1994},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 390
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1999},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":1999},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 391
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":2003},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":22},"Waterlevel":{"value":2003},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 392
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2010},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2010},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 393
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2009},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2009},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 394
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2004},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2004},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 395
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2021},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2021},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 396
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2023},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2023},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 397
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2028},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2028},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 398
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2013},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2013},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 399
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2026},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2026},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 400
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":17},"Waterlevel":{"value":2025},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":17},"Waterlevel":{"value":2025},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 401
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2027},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2027},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 402
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2032},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2032},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 403
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":19},"Waterlevel":{"value":2034},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":19},"Waterlevel":{"value":2034},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 404
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2021},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2021},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 405
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":18},"Waterlevel":{"value":2017},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":18},"Waterlevel":{"value":2017},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 406
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":18},"Waterlevel":{"value":2025},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":18},"Waterlevel":{"value":2025},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 407
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2023},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2023},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 408
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2031},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2031},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 409
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2031},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2031},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 410
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":17},"Waterlevel":{"value":2039},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":17},"Waterlevel":{"value":2039},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 411
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2032},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2032},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 412
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":17},"Waterlevel":{"value":2038},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":17},"Waterlevel":{"value":2038},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 413
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2035},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2035},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 414
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2040},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2040},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 415
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2052},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2052},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 416
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2047},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2047},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 417
+[PING] Sent
+"IPD" not found
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2075},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2075},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 418
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2060},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2060},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 419
+[JSON] {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2054},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+Publish Topic: $sys/gfD401PLDu/test1/thing/property/post, Msg: {"id":"123","params":{"Temp":{"value":28},"Hum":{"value":20},"Waterlevel":{"value":2054},"Body":{"value":0},"Voltage":{"value":0.0},"Current":{"value":0.00},"Power":{"value":0.0},"Energy":{"value":0.00}}}
+"IPD" not found
+[WARN] No response, fail count: 420
+[PING] Sent
+"IPD" not found

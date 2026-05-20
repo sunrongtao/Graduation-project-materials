@@ -1,0 +1,91 @@
+<!--pages/history/history.wxml-->
+<view class="container">
+  <!-- 顶部标题栏 -->
+  <view class="header">
+    <text class="title">History data anlysis</text>
+    <text class="subtitle">View the operating trend of dehumidifier</text>
+  </view>
+
+  <!-- 时间范围选择 -->
+  <view class="time-selector">
+    <view class="time-btn {{timeRange === '1h' ? 'active' : ''}}" bindtap="selectTimeRange" data-range="1h">1 h</view>
+    <view class="time-btn {{timeRange === '6h' ? 'active' : ''}}" bindtap="selectTimeRange" data-range="6h">6 h</view>
+    <view class="time-btn {{timeRange === '24h' ? 'active' : ''}}" bindtap="selectTimeRange" data-range="24h">24 h</view>
+    <view class="time-btn {{timeRange === '7d' ? 'active' : ''}}" bindtap="selectTimeRange" data-range="7d">7 days</view>
+  </view>
+
+  <!-- 数据统计卡片 -->
+  <view class="stats-row">
+    <view class="stat-card">
+      <text class="stat-label">Average Temp</text>
+      <text class="stat-value">{{stats.avgTemp || '--'}}°C</text>
+    </view>
+    <view class="stat-card">
+      <text class="stat-label">Average Hum</text>
+      <text class="stat-value">{{stats.avgHum || '--'}}%</text>
+    </view>
+    <view class="stat-card">
+      <text class="stat-label"> Power Consumption </text>
+      <text class="stat-value">{{stats.totalEnergy || '--'}}kWh</text>
+    </view>
+  </view>
+
+  <!-- 图表切换标签 -->
+  <view class="chart-tabs">
+    <view class="tab {{currentChart === 'temp' ? 'active' : ''}}" bindtap="switchChart" data-chart="temp">
+      <text class="tab-icon">🌡️</text>
+      <text>temperature and humidity</text>
+    </view>
+    <view class="tab {{currentChart === 'water' ? 'active' : ''}}" bindtap="switchChart" data-chart="water">
+      <text class="tab-icon">💧</text>
+      <text>Waterlevel</text>
+    </view>
+    <view class="tab {{currentChart === 'energy' ? 'active' : ''}}" bindtap="switchChart" data-chart="energy">
+      <text class="tab-icon">⚡</text>
+      <text>electric energy</text>
+    </view>
+  </view>
+
+  <!-- 图表区域 -->
+  <view class="chart-container">
+    <view class="chart-title">
+      <text wx:if="{{currentChart === 'temp'}}">Temperature and humidity variation curve</text>
+      <text wx:if="{{currentChart === 'water'}}">Water level variation curve</text>
+      <text wx:if="{{currentChart === 'energy'}}">Accumulated power consumption</text>
+    </view>
+    
+    <!-- 使用ec-canvas组件渲染图表 -->
+    <ec-canvas id="mychart" canvas-id="mychart-canvas" ec="{{ ec }}"></ec-canvas>
+  </view>
+
+  <!-- 数据列表 -->
+  <view class="data-list">
+    <view class="list-header">
+      <text class="list-title">Detailed data recording</text>
+      <text class="list-count">Overall {{historyData.length}} articles</text>
+    </view>
+    
+    <scroll-view scroll-y class="list-scroll" wx:if="{{historyData.length > 0}}">
+      <view class="list-item" wx:for="{{historyData}}" wx:key="id">
+        <view class="item-time">{{item.timeStr}}</view>
+        <view class="item-data">
+          <text class="data-tag temp">{{item.temperature}}°C</text>
+          <text class="data-tag hum">{{item.humidity}}%</text>
+          <text class="data-tag water">{{item.water_level}}</text>
+          <text class="data-tag power">{{item.power}}W</text>
+        </view>
+      </view>
+    </scroll-view>
+    
+    <view class="empty-state" wx:else>
+      <text class="empty-icon">📊</text>
+      <text class="empty-text">No data</text>
+    </view>
+  </view>
+
+  <!-- 加载状态 -->
+  <view class="loading-mask" wx:if="{{loading}}">
+    <view class="loading-spinner"></view>
+    <text class="loading-text">Loading data...</text>
+  </view>
+</view>

@@ -1,0 +1,7119 @@
+STM32 DHT11温湿度监测系统启动...
+========================
+DHT11初始化成功!
+voltage_ma_float:8.384000
+Current_ma_float:2385.000000
+Power_mw_float:19996.000000
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+DHT11初始化成功!
+voltage_ma_float:8.472000
+Current_ma_float:1272.000000
+Power_mw_float:10778.000000
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+DHT11初始化成功!
+voltage_ma_float:8.432000
+Current_ma_float:2389.000000
+Power_mw_float:20150.000000
+温度: 18°C, 湿度: 43%
+voltage_ma_float:8.440000
+Current_ma_float:2385.000000
+Power_mw_float:20136.000000
+温度: 18°C, 湿度: 43%
+voltage_ma_float:8.440000
+Current_ma_float:1293.000000
+Power_mw_float:10906.000000
+温度: 18°C, 湿度: 43%
+voltage_ma_float:8.428000
+Current_ma_float:2383.000000
+Power_mw_float:20090.000000
+温度: 18°C, 湿度: 43%
+voltage_ma_float:8.436000
+Current_ma_float:2376.000000
+Power_mw_float:20052.000000
+温度: 18°C, 湿度: 43%
+voltage_ma_float:8.436000
+Current_ma_float:2380.000000
+Power_mw_float:20080.000000
+温度: 18°C, 湿度: 43%
+voltage_ma_float:8.440000
+Current_ma_float:1227.000000
+Power_mw_float:10358.000000
+温度: 18°C, 湿度: 43%
+voltage_ma_float:8.440000
+Current_ma_float:2383.000000
+Power_mw_float:20114.000000
+温度: 18°C, 湿度: 42%
+voltage_ma_float:8.440000
+Current_ma_float:2377.000000
+Power_mw_float:20120.000000
+温度: 18°C, 湿度: 42%
+voltage_ma_float:8.440000
+Current_ma_float:2378.000000
+Power_mw_float:20078.000000
+温度: 18°C, 湿度: 42%
+voltage_ma_float:8.728000
+Current_ma_float:2182.000000
+Power_mw_float:20752.000000
+温度: 18°C, 湿度: 42%
+voltage_ma_float:8.440000
+Current_ma_float:2375.000000
+Power_mw_float:20028.000000
+温度: 18°C, 湿度: 42%
+voltage_ma_float:8.436000
+Current_ma_float:2382.000000
+Power_mw_float:20034.000000
+温度: 18°C, 湿度: 42%
+voltage_ma_float:8.444000
+Current_ma_float:2378.000000
+Power_mw_float:20064.000000
+温度: 18°C, 湿度: 42%
+voltage_ma_float:8.588000
+Current_ma_float:30.000000
+Power_mw_float:258.000000
+温度: 18°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 18°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 18°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+STM32 DHT11温湿度监测系统启动...
+========================
+DHT11初始化成功!
+voltage_ma_float:9.060000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 18°C, 湿度: 43%
+voltage_ma_float:9.072000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 18°C, 湿度: 43%
+voltage_ma_float:9.140000
+Current_ma_float:1412.000000
+Power_mw_float:11760.000000
+STM32 DHT11温湿度监测系统启动...
+========================
+DHT11初始化成功!
+voltage_ma_float:8.372000
+Current_ma_float:2410.000000
+Power_mw_float:20160.000000
+温度: 18°C, 湿度: 43%
+voltage_ma_float:9.112000
+Current_ma_float:70.000000
+Power_mw_float:16138.000000
+温度: 18°C, 湿度: 43%
+voltage_ma_float:9.104000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.452000
+Current_ma_float:2389.000000
+Power_mw_float:19920.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.132000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.320000
+Current_ma_float:2470.000000
+Power_mw_float:20660.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.052000
+Current_ma_float:122.000000
+Power_mw_float:22244.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.452000
+Current_ma_float:2430.000000
+Power_mw_float:1272.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.392000
+Current_ma_float:2425.000000
+Power_mw_float:20274.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.992000
+Current_ma_float:59.000000
+Power_mw_float:21444.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.412000
+Current_ma_float:2391.000000
+Power_mw_float:19730.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.424000
+Current_ma_float:2290.000000
+Power_mw_float:21024.000000
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+DHT11初始化成功!
+voltage_ma_float:8.420000
+Current_ma_float:2409.000000
+Power_mw_float:20188.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.172000
+Current_ma_float:86.000000
+Power_mw_float:800.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.428000
+Current_ma_float:2409.000000
+Power_mw_float:20296.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.448000
+Current_ma_float:2393.000000
+Power_mw_float:20222.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.728000
+Current_ma_float:2403.000000
+Power_mw_float:498.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.444000
+Current_ma_float:2416.000000
+Power_mw_float:20362.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.952000
+Current_ma_float:69.000000
+Power_mw_float:636.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.436000
+Current_ma_float:2396.000000
+Power_mw_float:20202.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.444000
+Current_ma_float:2396.000000
+Power_mw_float:20244.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.132000
+Current_ma_float:2341.000000
+Power_mw_float:602.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.436000
+Current_ma_float:2396.000000
+Power_mw_float:20228.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:8.440000
+Current_ma_float:912.000000
+Power_mw_float:20330.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.188000
+Current_ma_float:2323.000000
+Power_mw_float:19576.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.444000
+Current_ma_float:2400.000000
+Power_mw_float:20270.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.216000
+Current_ma_float:63.000000
+Power_mw_float:17692.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.432000
+Current_ma_float:2400.000000
+Power_mw_float:10400.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.444000
+Current_ma_float:2395.000000
+Power_mw_float:20214.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.224000
+Current_ma_float:69.000000
+Power_mw_float:638.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.436000
+Current_ma_float:2409.000000
+Power_mw_float:20324.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.448000
+Current_ma_float:1691.000000
+Power_mw_float:20238.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.228000
+Current_ma_float:1188.000000
+Power_mw_float:10020.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.440000
+Current_ma_float:2398.000000
+Power_mw_float:20242.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.012000
+Current_ma_float:85.000000
+Power_mw_float:21598.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.452000
+Current_ma_float:2393.000000
+Power_mw_float:2064.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.436000
+Current_ma_float:2412.000000
+Power_mw_float:20362.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.228000
+Current_ma_float:1081.000000
+Power_mw_float:764.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.436000
+Current_ma_float:2393.000000
+Power_mw_float:20192.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.436000
+Current_ma_float:2205.000000
+Power_mw_float:20280.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.444000
+Current_ma_float:434.000000
+Power_mw_float:3666.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.440000
+Current_ma_float:2408.000000
+Power_mw_float:20316.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.724000
+Current_ma_float:89.000000
+Power_mw_float:830.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.448000
+Current_ma_float:2393.000000
+Power_mw_float:20178.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.512000
+Current_ma_float:2397.000000
+Power_mw_float:20404.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.808000
+Current_ma_float:2394.000000
+Power_mw_float:584.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.436000
+Current_ma_float:2395.000000
+Power_mw_float:20198.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.672000
+Current_ma_float:104.000000
+Power_mw_float:960.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.712000
+Current_ma_float:2389.000000
+Power_mw_float:20136.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.436000
+Current_ma_float:2393.000000
+Power_mw_float:20188.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.224000
+Current_ma_float:500.000000
+Power_mw_float:1166.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.428000
+Current_ma_float:2393.000000
+Power_mw_float:19412.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.440000
+Current_ma_float:2408.000000
+Power_mw_float:20552.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.164000
+Current_ma_float:2321.000000
+Power_mw_float:622.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.432000
+Current_ma_float:2394.000000
+Power_mw_float:20196.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:8.424000
+Current_ma_float:1898.000000
+Power_mw_float:20234.000000
+温度: 19°C, 湿度: 44%
+voltage_ma_float:9.200000
+Current_ma_float:1212.000000
+Power_mw_float:10182.000000
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+DHT11初始化成功!
+voltage_ma_float:8.344000
+Current_ma_float:2393.000000
+Power_mw_float:19970.000000
+STM32 DHT11温湿度监测系统启动...
+========================
+DHT11初始化成功!
+voltage_ma_float:8.324000
+Current_ma_float:2504.000000
+Power_mw_float:20844.000000
+温度: 19°C, 湿度: 45%
+voltage_ma_float:8.408000
+Current_ma_float:2429.000000
+Power_mw_float:20424.000000
+温度: 19°C, 湿度: 45%
+voltage_ma_float:9.140000
+Current_ma_float:2411.000000
+Power_mw_float:22046.000000
+温度: 19°C, 湿度: 45%
+voltage_ma_float:8.668000
+Current_ma_float:2422.000000
+Power_mw_float:1048.000000
+STM32 DHT11温湿度监测系统启动...
+========================
+DHT11初始化成功!
+voltage_ma_float:8.432000
+Current_ma_float:2449.000000
+Power_mw_float:19988.000000
+ STM32 DHT11温湿度监测系统启动...
+========================
+DHT11初始化失败，请检查连接! 
+DHT11初始化失败，请检查连接! 
+DHT11初始化失败，请检查连接! 
+DHT11初始化失败，请检查连接! 
+DHT11初始化失败，请检查连接! 
+DHT11初始化失败，请检查连接! 
+STM32 DHT11温湿度监测系统启动...
+========================
+DHT11初始化成功!
+voltage_ma_float:9.216000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 44%
+voltage_ma_float:9.216000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 44%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 44%
+voltage_ma_float:9.216000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 44%
+voltage_ma_float:9.216000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+STM32 DHT11温湿度监测系统启动...
+====================齋TM32 DHT11温湿度监测系统启动...
+========================
+STM32 DHT11温湿度监测系统启动...
+========================
+DHT11初始化成功!
+voltage_ma_float:9.176000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 44%
+voltage_ma_float:9.184000
+Current_ma_float:11.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 44%
+voltage_ma_float:9.184000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+STM32 DHT11温湿度监测系统启动...
+========================
+DHT11初始化成功!
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.188000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.188000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.188000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.188000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.188000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.188000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.188000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.188000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.188000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.188000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.188000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.188000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.188000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:4.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.192000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:11.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:11.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.140000
+Current_ma_float:10.000000
+Power_mw_float:52.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.196000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.096000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 19°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:11.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:9.000000
+Power_mw_float:86.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:86.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:11.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.128000
+Current_ma_float:12.000000
+Power_mw_float:52.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:11.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:11.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:86.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.176000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.144000
+Current_ma_float:14.000000
+Power_mw_float:132.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:86.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.176000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.200000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:86.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.144000
+Current_ma_float:6.000000
+Power_mw_float:56.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.124000
+Current_ma_float:6.000000
+Power_mw_float:58.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:5.000000
+Power_mw_float:46.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.212000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:86.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 20°C, 湿度: 43%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:86.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.104000
+Current_ma_float:16.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:15.000000
+Power_mw_float:140.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:134.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:86.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:11.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.216000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:11.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:86.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:86.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:11.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:86.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:11.000000
+Power_mw_float:104.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.216000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.204000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:88.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:9.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:11.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:11.000000
+Power_mw_float:102.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:9.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:96.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.208000
+Current_ma_float:10.000000
+Power_mw_float:98.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.212000
+Current_ma_float:10.000000
+Power_mw_float:92.000000
+温度: 21°C, 湿度: 42%
+voltage_ma_float:9.216000
+Current_ma_float:10.000000
+Power_mw_float:92.000000

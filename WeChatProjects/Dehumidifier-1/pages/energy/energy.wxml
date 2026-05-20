@@ -1,0 +1,82 @@
+<!--pages/energy/energy.wxml-->
+<view class="container">
+  <!-- 顶部标题 -->
+  <view class="header">
+    <text class="title">Energy Analysis</text>
+    <text class="subtitle">Energy usage statisics and analysis</text>
+  </view>
+
+  <!-- 能耗汇总卡片 -->
+  <view class="summary-card">
+    <view class="summary-header">
+      <text class="summary-title">⚡ Electricity Summary</text>
+    </view>
+    <view class="summary-grid">
+      <view class="summary-item">
+        <text class="summary-label">Today</text>
+        <text class="summary-value">{{energySummary.today || '0.0000'}}</text>
+        <text class="summary-unit">kWh</text>
+      </view>
+      <view class="summary-item">
+        <text class="summary-label">This week</text>
+        <text class="summary-value">{{energySummary.week || '0.0000'}}</text>
+        <text class="summary-unit">kWh</text>
+      </view>
+      <view class="summary-item">
+        <text class="summary-label">This month</text>
+        <text class="summary-value">{{energySummary.month || '0.0000'}}</text>
+        <text class="summary-unit">kWh</text>
+      </view>
+    </view>
+  </view>
+
+
+  <!-- 时间选择 -->
+  <view class="time-selector">
+    <view class="time-btn {{timeRange === '24h' ? 'active' : ''}}" bindtap="selectTimeRange" data-range="24h">24h</view>
+    <view class="time-btn {{timeRange === '7d' ? 'active' : ''}}" bindtap="selectTimeRange" data-range="7d">7 days</view>
+    <view class="time-btn {{timeRange === '30d' ? 'active' : ''}}" bindtap="selectTimeRange" data-range="30d">30 days</view>
+  </view>
+
+
+
+  <!-- 每日能耗列表 -->
+  <view class="daily-card">
+    <view class="card-title">Daily Electricity Usage</view>
+    <view class="daily-list" wx:if="{{dailyEnergy.length > 0}}">
+      <view class="daily-item" wx:for="{{dailyEnergy}}" wx:key="date">
+        <view class="daily-date">
+          <text class="date-text">{{item.dateStr}}</text>
+          <text class="date-weekday">{{item.weekday}}</text>
+        </view>
+        <view class="daily-bar-container">
+          <view class="daily-bar" style="width: {{item.percentage}}%"></view>
+        </view>
+        <view class="daily-value">{{item.energyUsed}} kWh</view>
+      </view>
+    </view>
+    <view class="empty-state" wx:else>
+      <text class="empty-icon">📊</text>
+      <text class="empty-text">No data</text>
+    </view>
+  </view>
+
+  <!-- 节能提示 -->
+  <view class="tips-card">
+    <view class="card-title">💡 Saving tips</view>
+    <view class="tips-list">
+      <view class="tip-item">
+        <text class="tip-icon">✓</text>
+        <text class="tip-text">Activate the 'Intelligent Mode' and automatically shut down when the humidity meets the standard</text>
+      </view>
+      <view class="tip-item">
+        <text class="tip-icon">✓</text>
+        <text class="tip-text">Regularly clean the filter screen to maintain dehumidification efficiency</text>
+      </view>
+      <view class="tip-item">
+        <text class="tip-icon">✓</text>
+        <text class="tip-text">Close doors and windows to improve dehumidification efficiency</text>
+      </view>
+    </view>
+  </view>
+</view>

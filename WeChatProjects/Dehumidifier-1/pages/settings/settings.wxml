@@ -1,0 +1,132 @@
+<!--pages/settings/settings.wxml-->
+<view class="container">
+  <!-- 顶部标题 -->
+  <view class="header">
+    <text class="title">Setting</text>
+    <text class="subtitle">System configuration and information</text>
+  </view>
+
+  <!-- 设备信息卡片 -->
+  <view class="card">
+    <view class="card-title">📱Device Information</view>
+    <view class="info-list">
+      <view class="info-item">
+        <text class="info-label">Device Name</text>
+        <text class="info-value">Dehumidifier Pro</text>
+      </view>
+      <view class="info-item">
+        <text class="info-label">Device ID</text>
+        <text class="info-value">{{deviceInfo.deviceId || 'test1'}}</text>
+      </view>
+      <view class="info-item">
+        <text class="info-label">Conduct ID</text>
+        <text class="info-value">{{deviceInfo.productId || 'gfD401PLDu'}}</text>
+      </view>
+      <view class="info-item">
+        <text class="info-label">Connection Status</text>
+        <view class="status-badge {{deviceInfo.online ? 'online' : 'offline'}}">
+          {{deviceInfo.online ? 'Online' : 'Offline'}}
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 报警设置卡片 -->
+  <view class="card">
+    <view class="card-title">🔔 Alarm Setting</view>
+    <view class="setting-list">
+      <view class="setting-item">
+        <view class="setting-info">
+          <text class="setting-label">Temperature Alarm</text>
+          <text class="setting-desc">Alarm when temperature exceeds threshold</text>
+        </view>
+        <switch checked="{{alarmSettings.tempAlarm}}" bindchange="toggleTempAlarm" color="#667eea"/>
+      </view>
+      <view class="setting-item">
+        <view class="setting-info">
+          <text class="setting-label">humidity alarm</text>
+          <text class="setting-desc">Alarm when humidity exceeds threshold</text>
+        </view>
+        <switch checked="{{alarmSettings.humAlarm}}" bindchange="toggleHumAlarm" color="#667eea"/>
+      </view>
+      <view class="setting-item">
+        <view class="setting-info">
+          <text class="setting-label">Water tank full alarm</text>
+          <text class="setting-desc">Alarm when the water level in the water tank is too high</text>
+        </view>
+        <switch checked="{{alarmSettings.waterAlarm}}" bindchange="toggleWaterAlarm" color="#667eea"/>
+      </view>
+    </view>
+  </view>
+
+  <!-- 阈值设置卡片 -->
+  <view class="card">
+    <view class="card-title">📊 threshold setting</view>
+    <view class="threshold-list">
+      <view class="threshold-item">
+        <text class="threshold-label">temperature upper limit</text>
+        <view class="threshold-control">
+          <view class="btn-minus" bindtap="decreaseTemp">-</view>
+          <text class="threshold-value">{{thresholds.maxTemp}}°C</text>
+          <view class="btn-plus" bindtap="increaseTemp">+</view>
+        </view>
+      </view>
+      <view class="threshold-item">
+        <text class="threshold-label">Upper limit of humidity</text>
+        <view class="threshold-control">
+          <view class="btn-minus" bindtap="decreaseHum">-</view>
+          <text class="threshold-value">{{thresholds.maxHum}}%</text>
+          <view class="btn-plus" bindtap="increaseHum">+</view>
+        </view>
+      </view>
+      <view class="threshold-item">
+        <text class="threshold-label">Target humidity</text>
+        <view class="threshold-control">
+          <view class="btn-minus" bindtap="decreaseTargetHum">-</view>
+          <text class="threshold-value">{{thresholds.targetHum}}%</text>
+          <view class="btn-plus" bindtap="increaseTargetHum">+</view>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 服务器设置卡片 -->
+  <view class="card">
+    <view class="card-title">Server settings</view>
+    <view class="server-setting">
+      <text class="setting-label">backend address</text>
+      <input 
+        class="server-input" 
+        value="{{serverUrl}}" 
+        bindinput="onServerUrlInput"
+        placeholder="http://192.168.x.x:3000"
+      />
+      <view class="btn-save" bindtap="saveServerUrl">Save</view>
+    </view>
+  </view>
+
+  <!-- 关于卡片 -->
+  <view class="card">
+    <view class="card-title">ℹ️ About</view>
+    <view class="info-list">
+      <view class="info-item">
+        <text class="info-label">Application Version</text>
+        <text class="info-value">v1.0.0</text>
+      </view>
+      <view class="info-item">
+        <text class="info-label">Data refresh Interval</text>
+        <text class="info-value">5s</text>
+      </view>
+      <view class="info-item" bindtap="clearCache">
+        <text class="info-label">Clear cache</text>
+        <text class="info-arrow">›</text>
+      </view>
+    </view>
+  </view>
+
+  <!-- 底部版权 -->
+  <view class="footer">
+    <text class="footer-text">IoT dehumidifier monitoring system</text>
+    <text class="footer-copyright">© 2025 IoT Project</text>
+  </view>
+</view>

@@ -1,0 +1,145 @@
+<!--pages/index/index.wxml-->
+<view class="container">
+  <!-- 顶部标题 -->
+  <view class="header">
+    <text class="title">Dehimidifier Pro</text>
+    <view class="status-row">
+      <view class="status-dot {{isOnline ? 'online' : 'offline'}}"></view>
+      <text class="subtitle">{{isOnline ? 'Device online' : 'Device offline'}} · {{lastUpdate}}</text>
+    </view>
+  </view>
+
+  <!-- 温湿度卡片 -->
+  <view class="summary-card">
+    <view class="summary-header">
+      <text class="summary-title">🌡️ environmental monitoring</text>
+    </view>
+    <view class="summary-grid">
+      <view class="summary-item">
+        <text class="summary-label">Temp</text>
+        <text class="summary-value">{{temperature}}</text>
+        <text class="summary-unit">°C</text>
+      </view>
+      <view class="summary-item">
+        <text class="summary-label">Hum</text>
+        <text class="summary-value">{{humidity}}</text>
+        <text class="summary-unit">%RH</text>
+      </view>
+    </view>
+  </view>
+
+  <!-- 水箱水位 -->
+  <view class="card">
+    <view class="card-title">💧 Water tank status</view>
+    <view class="water-section">
+      <view class="water-bar-bg">
+        <view class="water-bar-fill" style="width: {{waterPercent}}%; background: {{waterPercent > 80 ? 'linear-gradient(90deg, #fb5607, #ff6b6b)' : 'linear-gradient(90deg, #4ecdc4, #45b7d1)'}};"></view>
+      </view>
+      <view class="water-info">
+        <text class="water-percent">{{waterPercent}}%</text>
+        <text class="water-raw">raw value: {{waterLevel}}</text>
+      </view>
+    </view>
+  </view>
+
+  <!-- 实时电能数据 -->
+  <view class="card">
+    <view class="card-title">⚡ real-time electricity</view>
+    <view class="realtime-grid">
+      <view class="realtime-item">
+        <view class="realtime-icon voltage">⚡</view>
+        <view class="realtime-info">
+          <text class="realtime-label">Voltage</text>
+          <text class="realtime-value">{{voltage}} <text class="unit">V</text></text>
+        </view>
+      </view>
+      <view class="realtime-item">
+        <view class="realtime-icon current">🔌</view>
+        <view class="realtime-info">
+          <text class="realtime-label">Current</text>
+          <text class="realtime-value">{{current}} <text class="unit">A</text></text>
+        </view>
+      </view>
+      <view class="realtime-item">
+        <view class="realtime-icon power">💡</view>
+        <view class="realtime-info">
+          <text class="realtime-label">Power</text>
+          <text class="realtime-value">{{power}} <text class="unit">W</text></text>
+        </view>
+      </view>
+      <view class="realtime-item">
+        <view class="realtime-icon energy">📊</view>
+        <view class="realtime-info">
+          <text class="realtime-label">cumulative electricity</text>
+          <text class="realtime-value">{{energy}} <text class="unit">kWh</text></text>
+        </view>
+      </view>
+    </view>
+  </view>
+
+  <!-- 设备控制卡片 -->
+  <view class="card">
+    <view class="card-title">🎛️ Device control</view>
+    <!-- 智能模式 -->
+    <view class="control-item smart-highlight">
+      <view class="control-info">
+        <view class="control-icon">🧠</view>
+        <view class="control-text">
+          <text class="control-label" style="color:#4ecdc4;font-weight:bold;">Intelligent constant humidity mode</text>
+        </view>
+      </view>
+      <switch checked="{{smartMode}}" bindchange="onSmartModeChange" color="#4ecdc4" />
+    </view>
+    <view class="mode-desc" wx:if="{{smartMode}}">
+      🤖  The intelligent brain has taken over: the device is automatically controlling the fan, mode, and dehumidification power based on temperature, humidity, and personnel activity. At this point, manual adjustment will be ignored.
+    </view>
+    <!-- 电源 -->
+    <view class="control-item">
+      <view class="control-info">
+        <view class="control-icon">🔌</view>
+        <view class="control-text">
+          <text class="control-label">Power supply</text>
+        </view>
+      </view>
+      <switch checked="{{dehumPower}}" disabled="{{smartMode}}" bindchange="onPowerChange" color="#667eea" />
+    </view>
+    <!-- 模式 -->
+    <view class="control-item">
+      <view class="control-info">
+        <view class="control-icon">⚙️</view>
+        <view class="control-text">
+          <text class="control-label">operation mode</text>
+          <text class="control-sub">{{dehumMode ? 'Mode2' : 'Mode1'}}</text>
+        </view>
+      </view>
+      <switch checked="{{dehumMode > 0}}" disabled="{{smartMode}}" bindchange="onModeChange" color="#667eea" />
+    </view>
+    <!-- 风速 -->
+    <view class="control-item">
+      <view class="control-info">
+        <view class="control-icon">🌪️</view>
+        <view class="control-text">
+          <text class="control-label">Fan Speed</text>
+          <text class="control-sub">{{dehumFan ? 'High speed' : 'Low speed'}}</text>
+        </view>
+      </view>
+      <switch checked="{{dehumFan > 1}}" disabled="{{smartMode}}" bindchange="onFanChange" color="#667eea" />
+    </view>
+    <!-- 负离子 -->
+    <view class="control-item">
+      <view class="control-info">
+        <view class="control-icon">✨</view>
+        <view class="control-text">
+          <text class="control-label">Negative ion purification</text>
+        </view>
+      </view>
+      <switch checked="{{dehumIon}}" disabled="{{smartMode}}" bindchange="onIonChange" color="#667eea" />
+    </view>
+  </view>
+
+  <!-- 加载状态 -->
+  <view class="loading-mask" wx:if="{{loading}}">
+    <view class="loading-spinner"></view>
+    <text class="loading-text">Loading data...</text>
+  </view>
+</view>

@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>除湿器数据分析看板</title>
+    <!-- 引入 ECharts -->
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+    <style>
+        :root {
+            --bg-color: #1a1b2e;
+            --card-bg: #242538;
+            --primary: #6b4cff;
+            --text-main: #ffffff;
+            --text-sub: #8b8d9c;
+            --temp-color: #ff6b6b;
+            --hum-color: #4facfe;
+            --water-color: #00f2fe;
+            --energy-color: #f6d365;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            padding: 20px 40px;
+        }
+
+        /* 顶部标题区 */
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            font-size: 28px;
+            background: linear-gradient(45deg, #a18cd1 0%, #fbc2eb 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
+        }
+        .header p {
+            color: var(--text-sub);
+            font-size: 14px;
+        }
+
+        /* 控制栏 */
+        .control-panel {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+        .input-group {
+            display: flex;
+            align-items: center;
+            background: rgba(0,0,0,0.2);
+            border-radius: 8px;
+            border: 1px solid #3d3e51;
+            padding: 5px 15px;
+        }
+        .input-group span {
+            color: var(--text-sub);
+            margin-right: 10px;
+        }
+        .input-group input {
+            background: transparent;
+            border: none;
+            color: var(--text-main);
+            width: 200px;
+            outline: none;
+            font-size: 14px;
+        }
+        .btn {
+            background: var(--primary);
+            color: white;
+            border: none;
+            padding: 8px 20px;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 14px;
+        }
+        .btn:hover {
+            background: #5a3ee0;
+        }
+        .status {
+            color: #00e676;
+            font-size: 14px;
+        }
+        .time-filters {
+            display: flex;
+            gap: 10px;
+            margin-left: 20px;
+        }
+        .filter-btn {
+            background: rgba(255,255,255,0.05);
+            color: var(--text-sub);
+            border: 1px solid transparent;
+            padding: 5px 15px;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        .filter-btn.active {
+            background: var(--primary);
+            color: white;
+        }
+
+        /* 数据卡片区 */
+        .kpi-cards {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+        .kpi-card {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+        }
+        .kpi-card:hover {
+            transform: translateY(-5px);
+        }
+        .kpi-card .icon {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        .kpi-card .title {
+            color: var(--text-sub);
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+        .kpi-card .value {
+            font-size: 28px;
+            font-weight: bold;
+        }
+        .kpi-card .unit {
+            font-size: 14px;
+            color: var(--text-sub);
+        }
+        
+        /* 颜色特例 */
+        .val-temp { color: var(--temp-color); }
+        .val-hum { color: var(--hum-color); }
+        .val-water { color: var(--water-color); }
+        .val-energy { color: var(--energy-color); }
+        .val-count { color: #bd93f9; }
+
+        /* 图表区 */
+        .chart-container {
+            background: var(--card-bg);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+        }
+        .chart-title {
+            font-size: 16px;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .chart-box {
+            width: 100%;
+            height: 350px; /* 稍微加高一点，给底部滑动条留空间 */
+        }
+
+        /* 底部 */
+        .footer {
+            text-align: center;
+            color: var(--text-sub);
+            font-size: 12px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <h1>除湿器数据分析看板</h1>
+        <p>实时监控 · 历史趋势 · 能耗分析</p>
+    </div>
+
+    <div class="control-panel">
+        <div class="input-group">
+            <span>后端地址:</span>
+            <input type="text" id="apiUrl" value="http://192.168.20.17:3000">
+        </div>
+        <button class="btn" onclick="fetchData()">🔄 刷新数据</button>
+        <span class="status" id="statusText">正在等待加载...</span>
+        
+        <div class="time-filters">
+            <button class="filter-btn" onclick="setFilter(this, 1)">1小时</button>
+            <button class="filter-btn active" onclick="setFilter(this, 6)">6小时</button>
+            <button class="filter-btn" onclick="setFilter(this, 24)">24小时</button>
+            <button class="filter-btn" onclick="setFilter(this, 168)">7天</button>
+        </div>
+    </div>
+
+    <!-- 顶部数据卡片 -->
+    <div class="kpi-cards">
+        <div class="kpi-card">
+            <div class="icon">🌡️</div>
+            <div class="title">平均温度</div>
+            <div class="value val-temp"><span id="avgTemp">--</span><span class="unit">°C</span></div>
+        </div>
+        <div class="kpi-card">
+            <div class="icon">💧</div>
+            <div class="title">平均湿度</div>
+            <div class="value val-hum"><span id="avgHum">--</span><span class="unit">%</span></div>
+        </div>
+        <div class="kpi-card">
+            <div class="icon">🌊</div>
+            <div class="title">当前水位</div>
+            <div class="value val-water" id="curWater">--</div>
+        </div>
+        <div class="kpi-card">
+            <div class="icon">⚡</div>
+            <div class="title">能耗累计</div>
+            <div class="value val-energy"><span id="totalEnergy">--</span><span class="unit">kWh</span></div>
+        </div>
+        <div class="kpi-card">
+            <div class="icon">📊</div>
+            <div class="title">数据点数</div>
+            <div class="value val-count"><span id="dataCount">0</span><span class="unit">条</span></div>
+        </div>
+    </div>
+
+    <!-- 图表区域 -->
+    <div class="chart-container">
+        <div class="chart-title">🌡️ 温度 & 湿度变化曲线</div>
+        <div id="chartTempHum" class="chart-box"></div>
+    </div>
+    <div class="chart-container">
+        <div class="chart-title">⚡ 累计电能消耗</div>
+        <div id="chartEnergy" class="chart-box"></div>
+    </div>
+    <div class="chart-container">
+        <div class="chart-title">💡 实时功率变化</div>
+        <div id="chartPower" class="chart-box"></div>
+    </div>
+
+    <div class="footer">
+        物联网除湿器数据分析系统 · 数据每30秒自动刷新
+    </div>
+
+    <script>
+        // =====================================
+        // 核心配置区
+        // =====================================
+        const DATA_INTERVAL_SEC = 30; // 数据上传的真实间隔（秒）。如果你的单片机改成了5秒，这里就填5
+        const MAX_CHART_POINTS = 1500; // 图表最多显示的点数，防止浏览器卡死
+
+        let currentHours = 6; 
+        
+        // 初始化 ECharts
+        const chartTempHum = echarts.init(document.getElementById('chartTempHum'), 'dark');
+        const chartEnergy = echarts.init(document.getElementById('chartEnergy'), 'dark');
+        const chartPower = echarts.init(document.getElementById('chartPower'), 'dark');
+        const chartOptionsBase = { backgroundColor: 'transparent' };
+
+        // 窗口大小变化时自适应
+        window.addEventListener('resize', () => {
+            chartTempHum.resize();
+            chartEnergy.resize();
+            chartPower.resize();
+        });
+
+        // 切换时间过滤器
+        function setFilter(btn, hours) {
+            document.querySelectorAll('.filter-btn').forEach(el => el.classList.remove('active'));
+            btn.classList.add('active');
+            currentHours = hours; 
+            fetchData();
+        }
+
+        // 智能时间格式化（大于24小时显示日期）
+        function formatTime(dateStr, hours) {
+            const date = new Date(dateStr);
+            const hhmm = `${date.getHours().toString().padStart(2, '0')}:${date.getMinutes().toString().padStart(2, '0')}`;
+            if (hours >= 24) {
+                return `${date.getMonth() + 1}-${date.getDate()} ${hhmm}`;
+            }
+            return hhmm;
+        }
+
+        // 🌟 核心算法：数据降采样（Downsample），确保几万条数据也能流畅显示
+        function downsample(data, maxPoints) {
+            if (!data || data.length <= maxPoints) return data;
+            const result = [];
+            const step = (data.length - 1) / (maxPoints - 1);
+            for (let i = 0; i < maxPoints; i++) {
+                result.push(data[Math.round(i * step)]);
+            }
+            return result;
+        }
+
+        // 获取数据主函数
+        async function fetchData() {
+            const baseUrl = document.getElementById('apiUrl').value.trim();
+            const statusEl = document.getElementById('statusText');
+            statusEl.style.color = '#e1e1ea';
+            statusEl.innerText = '正在请求数据...';
+
+            // 动态计算需要向后端请求多少条原始数据
+            let limitCount = Math.ceil((currentHours * 3600) / DATA_INTERVAL_SEC);
+            
+            // 安全机制：防止超过 3 万条搞崩溃数据库 (7天*30秒 = 20160条，在这个范围内)
+            if(limitCount > 30000) limitCount = 30000; 
+
+            try {
+                const response = await fetch(`${baseUrl}/api/data/history?limit=${limitCount}`);
+                const resData = await response.json();
+
+                if (resData.success && resData.data) {
+                    const rawData = resData.data.reverse(); 
+                    
+                    if (rawData.length === 0) {
+                        statusEl.innerText = '暂无数据';
+                        return;
+                    }
+
+                    // 1. 卡片统计：使用所有真实的原始数据，保证计算结果完全精准
+                    updateCards(rawData);
+
+                    // 2. 图表渲染：对数据进行抽样，最多提取 1500 个点，防止卡顿
+                    const chartData = downsample(rawData, MAX_CHART_POINTS);
+
+                    const timeAxis = chartData.map(item => formatTime(item.created_at, currentHours));
+                    const temps = chartData.map(item => parseFloat(item.temperature || 0));
+                    const hums = chartData.map(item => parseFloat(item.humidity || 0));
+                    const energies = chartData.map(item => parseFloat(item.energy || 0));
+                    const powers = chartData.map(item => parseFloat(item.power || 0));
+
+                    renderTempHumChart(timeAxis, temps, hums);
+                    renderEnergyChart(timeAxis, energies);
+                    renderPowerChart(timeAxis, powers);
+
+                    statusEl.style.color = '#00e676';
+                    statusEl.innerText = `✓ 获取 ${rawData.length} 条数据，图表展示 ${chartData.length} 个点 (近 ${currentHours} 小时)`;
+                } else {
+                    throw new Error('接口返回格式不正确');
+                }
+            } catch (error) {
+                console.error(error);
+                statusEl.style.color = '#ff6b6b';
+                statusEl.innerText = '❌ 数据加载失败，请检查网络或跨域设置';
+            }
+        }
+
+        function updateCards(data) {
+            const count = data.length;
+            const lastItem = data[data.length - 1]; 
+            const avgTemp = (data.reduce((sum, item) => sum + parseFloat(item.temperature || 0), 0) / count).toFixed(1);
+            const avgHum = (data.reduce((sum, item) => sum + parseFloat(item.humidity || 0), 0) / count).toFixed(1);
+            
+            document.getElementById('avgTemp').innerText = avgTemp;
+            document.getElementById('avgHum').innerText = avgHum;
+            document.getElementById('curWater').innerText = lastItem.water_level || '--';
+            document.getElementById('totalEnergy').innerText = parseFloat(lastItem.energy || 0).toFixed(4);
+            document.getElementById('dataCount').innerText = count;
+        }
+
+        function renderTempHumChart(times, temps, hums) {
+            chartTempHum.setOption({
+                ...chartOptionsBase,
+                tooltip: { trigger: 'axis' },
+                legend: { data: ['温度(°C)', '湿度(%)'], textStyle: { color: '#8b8d9c' } },
+                grid: { left: '3%', right: '3%', bottom: '15%', containLabel: true },
+                dataZoom: [{ type: 'inside' }, { type: 'slider', height: 20, bottom: 5 }], // 添加底部缩放滑块
+                xAxis: { type: 'category', boundaryGap: false, data: times },
+                yAxis: [
+                    { type: 'value', name: '温度(°C)', min: 0, max: 40, splitLine: { lineStyle: { color: '#3d3e51', type: 'dashed' } } },
+                    { type: 'value', name: '湿度(%)', min: 0, max: 100, splitLine: { show: false } }
+                ],
+                series: [
+                    { 
+                        name: '温度(°C)', type: 'line', smooth: true, yAxisIndex: 0, data: temps, 
+                        itemStyle: { color: '#ff6b6b' }, showSymbol: false, sampling: 'lttb' 
+                    },
+                    { 
+                        name: '湿度(%)', type: 'line', smooth: true, yAxisIndex: 1, data: hums, 
+                        itemStyle: { color: '#4facfe' }, showSymbol: false, sampling: 'lttb' 
+                    }
+                ]
+            }, true);
+        }
+
+        function renderEnergyChart(times, energies) {
+            chartEnergy.setOption({
+                ...chartOptionsBase,
+                tooltip: { trigger: 'axis' },
+                grid: { left: '3%', right: '3%', bottom: '15%', containLabel: true },
+                dataZoom: [{ type: 'inside' }, { type: 'slider', height: 20, bottom: 5 }],
+                xAxis: { type: 'category', boundaryGap: false, data: times },
+                yAxis: { type: 'value', splitLine: { lineStyle: { color: '#3d3e51', type: 'dashed' } } },
+                series: [{
+                    name: '累计能耗(kWh)',
+                    type: 'line',
+                    smooth: true,
+                    data: energies,
+                    itemStyle: { color: '#f6d365' },
+                    showSymbol: false,
+                    sampling: 'lttb',
+                    areaStyle: {
+                        color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                            { offset: 0, color: 'rgba(246, 211, 101, 0.5)' },
+                            { offset: 1, color: 'rgba(246, 211, 101, 0.0)' }
+                        ])
+                    }
+                }]
+            }, true);
+        }
+
+        function renderPowerChart(times, powers) {
+            chartPower.setOption({
+                ...chartOptionsBase,
+                tooltip: { trigger: 'axis' },
+                grid: { left: '3%', right: '3%', bottom: '15%', containLabel: true },
+                dataZoom: [{ type: 'inside' }, { type: 'slider', height: 20, bottom: 5 }],
+                xAxis: { type: 'category', data: times },
+                yAxis: { type: 'value', name: '功率(W)', splitLine: { lineStyle: { color: '#3d3e51', type: 'dashed' } } },
+                series: [{
+                    name: '功率(W)',
+                    type: 'bar', // 功率如果是高频数据，当数据量大时 ECharts 也会自动合并绘制
+                    data: powers,
+                    itemStyle: {
+                        color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+                            { offset: 0, color: '#bd93f9' },
+                            { offset: 1, color: '#6b4cff' }
+                        ]),
+                        borderRadius: [3, 3, 0, 0]
+                    }
+                }]
+            }, true);
+        }
+
+        window.onload = () => {
+            fetchData();
+            setInterval(fetchData, 30000);
+        };
+    </script>
+</body>
+</html>

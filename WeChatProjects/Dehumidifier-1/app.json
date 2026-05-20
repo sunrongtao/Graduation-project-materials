@@ -1,0 +1,46 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/energy/energy",
+    "pages/history/history",
+    "pages/settings/settings"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#1a1a2e",
+    "navigationBarTitleText": "Dehumidifier Pro",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#1a1a2e"
+  },
+  "tabBar": {
+    "color": "rgba(255,255,255,0.5)",
+    "selectedColor": "#667eea",
+    "backgroundColor": "#1a1a2e",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "Home"
+      },
+      {
+        "pagePath": "pages/energy/energy",
+        "text": "Energy"
+      },
+      {
+        "pagePath": "pages/history/history",
+        "text": "History"
+      },
+      {
+        "pagePath": "pages/settings/settings",
+        "text": "Setting"
+      }
+    ]
+  },
+  "usingComponents": {
+    "ec-canvas": "ec-canvas/ec-canvas"
+  },
+  "sitemapLocation": "sitemap.json"
+}
+
+
+

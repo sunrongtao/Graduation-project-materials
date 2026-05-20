@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "Energy consumption and mode comparison",
+  "navigationBarBackgroundColor": "#1a1a2e",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "ec-canvas": "../../ec-canvas/ec-canvas"
+  }
+}
